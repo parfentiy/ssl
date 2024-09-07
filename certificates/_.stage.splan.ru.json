@@ -1,0 +1,5 @@
+{
+	"domain": "*.stage.splan.ru",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/0469c4d2de2b8371a08f45c6398d88fbb745",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/0469c4d2de2b8371a08f45c6398d88fbb745"
+}

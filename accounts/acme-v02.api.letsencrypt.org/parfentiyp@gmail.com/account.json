@@ -1,0 +1,12 @@
+{
+	"email": "parfentiyp@gmail.com",
+	"registration": {
+		"body": {
+			"status": "valid",
+			"contact": [
+				"mailto:parfentiyp@gmail.com"
+			]
+		},
+		"uri": "https://acme-v02.api.letsencrypt.org/acme/acct/1932458986"
+	}
+}
